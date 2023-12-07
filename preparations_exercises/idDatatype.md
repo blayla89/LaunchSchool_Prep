@@ -1,0 +1,11 @@
+## 3. Identify the data type for each of the following values:
+
+| value          | type      |
+| -------------- | --------- |
+| 'true'         | String    |
+| false          | Boolean   |
+| 1.5            | Number    |
+| 2              | Number    |
+| undefined      | Undefined |
+| { foo: 'bar' } | Object    |
+
